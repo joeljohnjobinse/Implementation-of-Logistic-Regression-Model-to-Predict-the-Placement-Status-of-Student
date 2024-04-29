@@ -31,6 +31,7 @@ Step 10: Get accuaracy score
 Step 11: Get classification report
 
 Step 12: Predict the result for a set of values
+
 Step 13: Stop
 
 ## Program:
