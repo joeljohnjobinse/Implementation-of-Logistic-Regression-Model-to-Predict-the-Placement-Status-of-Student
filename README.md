@@ -9,16 +9,27 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 Step 1: Start
+
 Step 2: Import pandas module as pd
+
 Step 3: Read the CSV File 'Placement_Data.csv' and create the dataframe
+
 Step 4: Create a copy of the dataframe
+
 Step 5: Check for null and duplicated values
+
 Step 6: Encode the values using LabelEncoder from sklearn.preprocessing
+
 Step 7: Create your x and y variable
+
 Step 8: Create your training and test values using train_test_split from sklearn.model_selection
+
 Step 9: Use LogisticRegression from sklearn.linear_model and get the predicted value
+
 Step 10: Get accuaracy score
+
 Step 11: Get classification report
+
 Step 12: Predict the result for a set of values
 Step 13: Stop
 
